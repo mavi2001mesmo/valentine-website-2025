@@ -80,3 +80,7 @@ const CONFIG = {
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
     }
+};
+
+// Don't modify anything below this line unless you know what you're doing
+window.VALENTINE_CONFIG = CONFIG; 
