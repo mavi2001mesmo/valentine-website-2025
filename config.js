@@ -1,5 +1,5 @@
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "André"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
